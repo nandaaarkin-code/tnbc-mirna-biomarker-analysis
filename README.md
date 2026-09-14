@@ -241,9 +241,9 @@ tnbc-mirna-biomarker-analysis/
 │   ├── 02_GEO_Validation.R
 │   ├── 03_Survival_Analysis.R
 │   └── 04_miR934_Target_Analysis.R
-├── figures/
-├── results/
-└── docs/
+├── Figures/
+├── Results/
+└── Docs/
 ```
 
 ## Author
