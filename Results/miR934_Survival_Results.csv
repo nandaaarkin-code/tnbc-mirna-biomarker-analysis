@@ -1,0 +1,2 @@
+"Biomarker","N","Events","Median_Cutoff","Low_Group","High_Group","Logrank_p","Cox_HR","Cox_CI_lower","Cox_CI_upper","Cox_p","PH_assumption_p"
+"hsa-miR-934",135,24,39.18257,67,68,0.8217982,0.9122953,0.4011663,2.074658,0.8266687,0.74
