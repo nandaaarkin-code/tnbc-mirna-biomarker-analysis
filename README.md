@@ -238,10 +238,9 @@ tnbc-mirna-biomarker-analysis/
 ├── README.md
 ├── R/
 │   ├── 01_TCGA_Discovery.R
-│   ├── 02_GEO_GSE40049_Validation.R
-│   ├── 03_GEO_GSE86277_ROC.R
-│   ├── 04_Survival_Analysis.R
-│   └── 05_miR934_Target_Analysis.R
+│   ├── 02_GEO_Validation.R
+│   ├── 03_Survival_Analysis.R
+│   └── 04_miR934_Target_Analysis.R
 ├── figures/
 ├── results/
 └── docs/
