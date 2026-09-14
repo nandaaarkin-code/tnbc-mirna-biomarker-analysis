@@ -406,11 +406,11 @@ Major software resources used include TCGAbiolinks, GEOquery, multiMiR, clusterP
 
 # Author
 
-**Aarkin Nanda**  
-M.Sc. Biotechnology
+# About the Author
 
-This repository represents an independent computational analysis using publicly available datasets.
+**Aarkin Nanda** is an M.Sc. Biotechnology student interested in cancer research, molecular biomarkers, and bioinformatics. His work focuses on applying computational approaches to public omics datasets to investigate cancer-associated molecular signatures.
 
+This project demonstrates practical experience with R, TCGA/GEO data analysis, differential expression, independent validation, ROC analysis, survival analysis, and miRNA-target analysis.
 ## Disclaimer
 
 This project is intended for research and educational purposes. The computational findings do not constitute a clinical diagnostic or prognostic test. Further independent and experimental validation is required before clinical interpretation.
